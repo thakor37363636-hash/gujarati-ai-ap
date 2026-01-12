@@ -26,7 +26,7 @@ Gujarati Super AI App એક સરળ All-in-One AI આધારિત વે�
 
 ## Purpose
 Gujarati ભાષા શીખવા માટે
-Simple, Fast અને Lightweight App
+Simple, Fast અને Lightweight AppLast updated: Jan 2026
 
 ## Developer
 Mitul Thakor
